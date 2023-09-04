@@ -162,6 +162,6 @@ Here i download HeidiSQL. Heidi SQL allows us to connect to the SQL (I downloade
 <p>
 To Fisnish Setting OsTicket i went on the web to see if i could log on and access Osticket using the credintuals i made. And It Was Succesfull!
  
-    Stay tune for the next lab were i creat roles, departments, teams and much more..
+  -Stay tune for the next lab were i create roles, departments, teams and much more...
 </p>
 <br />
