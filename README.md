@@ -50,7 +50,22 @@ To begin with i created a Virtual Machine using Microsoft Azure. To setup the en
 <img src="https://i.imgur.com/C7C05L0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this part of the installation process i enabled IIS. Because osTicket runs out of a website we need to configure IIS to be able to Run Osticket. Here i enabled the following Features:
+
+  - Internet Information Services
+  - World Wide Web Service
+  - Application Development Feutures
+  - CGI
+  - Common HTTP Features
+  - Default Document
+  - Directory Browsing
+  - HTTP errors
+  - HTTP redirection
+  - Static content
+  - Webdav Publishing
+
+To test that i did it correctly i pinged 127.0.0.1 which to took me to the Internet Information Services Web Site.
+
 </p>
 <br />
 
