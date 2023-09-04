@@ -151,6 +151,17 @@ For this Section i setup the Name of the Help desk and setup the default user na
 </p>
 
 <p>
-Here i download HeidiSQL. Heidi SQL allows us to connect to the SQL (I downloaded earlir) database and to the server that the Osticket will use the database.
+Here i download HeidiSQL. Heidi SQL allows us to connect to the SQL (I downloaded earlir) database and to the server that the Osticket will use the database. With Heidi I Created a new Session. Connected to the session and then a new database in Heidi and called Osticket. Then installed it on to Osticket. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/2gsnInv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+To Fisnish Setting OsTicket i went on the web to see if i could log on and access Osticket using the credintuals i made. And It Was Succesfull!
+ 
+    Stay tune for the next lab were i creat roles, departments, teams and much more..
 </p>
 <br />
