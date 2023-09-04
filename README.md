@@ -34,7 +34,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/h2tzhCg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To begin with i created a Virtual Machine using Microsoft Azure. To setup the enviroment where i will be doing the lab. Here i will setup the Osticket sytem. While doing this part of the lab i gained hands on experience using Azure on of the leading Cloud storages servies today. I Connected to the VM using Remote Desktop. I gained experience both as a Adminstrative and as a user. I was also exposed to all parts of the ticketing system such as 
+  
+  - Ticket properties
+  - SLAs
+  - Departments
+  - Permissions
+  - Users
+
+    
 </p>
 <br />
 
