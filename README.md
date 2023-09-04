@@ -103,6 +103,32 @@ Next i downloaded VcRedist downloads the supported (and unsupported) Redistribut
 <br />
 
 <p>
+<img src="https://i.imgur.com/NtJ5XEf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Here you can see i downloaded My SQL server 5.5 MySQL is a tool used to manage databases and servers, so while it's not a database, it's widely used in relation to managing and organising data in databases. The configuration i used were 
+
+  - Typical setup
+  - Standard Configuration
+
+<br />
+
+<p>
+<img src="https://i.imgur.com/Hf8aCuT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Here i opened IIS as an Admin and registered PHP within IIS. Lastly i restarted the server.
+<br />
+
+<p>
+<img src="https://i.imgur.com/QZIyYzb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+This is Finally the part were i downlaod OsTicket system 
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
