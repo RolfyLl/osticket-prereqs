@@ -21,11 +21,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Create virture machine on Azure
+- Install/ enable IIS in windows with CGI and common
+- HTTP features
+- Download and install VC_redist
+- Download and install MySQL
+- Download and install Heidi SQl
 
 <h2>Installation Steps</h2>
 
