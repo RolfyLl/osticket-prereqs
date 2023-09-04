@@ -124,7 +124,18 @@ Here i opened IIS as an Admin and registered PHP within IIS. Lastly i restarted 
 <img src="https://i.imgur.com/QZIyYzb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This is Finally the part were i downlaod OsTicket system 
+This is Finally the part were i downlaod OsTicket system. 
+
+  - Extract and copy “upload” folder to c:\inetpub\wwwroot
+  - Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
+
+Notice they were some extensions are not enabled yet. For this i go back into IIS PHP Manager Click “Enable or disable an extension”
+  
+  - Enable: php_imap.dll
+  - Enable: php_intl.dll
+  - Enable: php_opcache.dll
+
+  
 </p>
 <br />
 
